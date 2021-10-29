@@ -1,0 +1,19 @@
+a{
+	display: inline-block;
+	background-color: #cacaca;
+	padding: 10px;
+	margins: 10px;
+	border: 1px solid #000;
+	border-radius: 4px;
+	text-decoration: none;
+	color: black;
+}
+.on{
+	background-color: aquamarine;
+}
+.off{
+	background-color: red;
+}
+div{
+	margin-bottom: 10px;
+}
