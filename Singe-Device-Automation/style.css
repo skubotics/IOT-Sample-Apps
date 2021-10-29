@@ -1,0 +1,16 @@
+.switch {
+	padding: 10px;
+	display: inline-block;
+	border-radius: 4px;
+	text-decoration: none;
+	color: black;
+	border: 1px solid black;
+}
+.on{
+	background-color: green;
+	color: white;
+}
+.off{
+	background-color: red;
+	color: white;
+}
